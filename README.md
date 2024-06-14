@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @EdHDevs
   
 - 👀 I’m currently working with:
+    - JavaScript
+    - Bun & Express
     - React 
     - Docker
     - Kubernetes
@@ -10,10 +12,9 @@
 
          
 - 🌱 I’m currently learning 
-        - Accelerate Developer Productivity with Github Copilot
-   
-- 💞️ I’m looking to collaborate on
-  
+        - React Native for mobile apps.
+        - AI Solutions for development productivity.
+
 - 📫 How to reach me
     - edson.hervey@utp.ac.pa
     - +507 6949-4364 
