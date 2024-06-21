@@ -1,19 +1,19 @@
-- 👋 Hi, I’m @EdHDevs
-  
+
 - 👀 I’m currently working with:
     - JavaScript
     - Bun & Express
          
 - 🌱 I’m currently learning 
-        - React Native for mobile apps.
-        - AI Solutions for development productivity.
+
 
 <h1 align="center">Hi 👋, I'm Edson Hervey</h1>
 <h3 align="center">A passionate software developer from Panama</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edhdevs" alt="edhdevs" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning
+  **- React Native for mobile apps.**
+  **- AI Solutions for development productivity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
